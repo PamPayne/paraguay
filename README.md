@@ -1,0 +1,2 @@
+# paraguay
+Regulatory documents — Paraguay
