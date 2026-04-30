@@ -4,9 +4,7 @@ Markdown versions of regulatory documents for Paraguay, sourced from the DBNSA R
 
 ## Documents
 
-| Document | Source File |
-|---|---|
-| [Resolution 42 2017 002](resolution_42-2017__002_.md) | resolution 42-2017 (002).docx |
+*Document index will be updated once files are processed.*
 
 ## Source
 
